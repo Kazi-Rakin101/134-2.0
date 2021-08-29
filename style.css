@@ -1,0 +1,35 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    width: 100%;
+    font-size: 30px;
+    margin: 0px;
+}
+
+#start,#number_of_funtion,#status
+{
+    font-size: 20px;
+}
+
+canvas
+{
+    border:2px gray;
+    border-style: solid;
+    border-radius: 25px;
+    box-shadow:rgb(82, 82, 82) 5px 5px 5px;
+}
+
+.footer_div
+{
+    width: 100%;
+    position: fixed;
+    line-height: 2.5;
+    text-align: center;
+    background-color: grey;
+    bottom: 0;
+    color: white;
+}
